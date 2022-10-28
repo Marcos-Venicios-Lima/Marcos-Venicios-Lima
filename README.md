@@ -34,3 +34,11 @@
 </div>
   
 ## Um apaixonado por Programação e Tecnologia!
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Marcos-Venicios-Lima&bg_color=a4d1f4&color=bf1a08&line=ae1a0a&point=57584b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <p align="center"><b>Contador de Visitas</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcos-Venicios-Lima}/count.svg" /></p>
+  <br>
+</div>
