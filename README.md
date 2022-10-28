@@ -39,7 +39,7 @@
   <img align="center" alt="xHarbour" height="30" width="80" src="http://www.xharbour.org/images/top_left.gif" />  
 </div>
   
-## Um apaixonado por Programação e Tecnologias!
+## Um Apaixonado por Programação e Tecnologias!
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Marcos-Venicios-Lima&bg_color=76dbd9&color=bf1a08&line=ae1a0a&point=57584b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
