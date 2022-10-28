@@ -5,7 +5,7 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/venicioslima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/venicios9471/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Venicios2000)
-[![taggo](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://taggo.one/venicios)
+[![taggo](https://data.terabox.com/thumbnail/3e7bf067888bc66587a6a2c82f5c7647?fid=4399483937175-250528-767138388823680&time=1666965600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-1yyksVfOdZvptaKBlyg9KX1OCcM%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=62384493513233597&dp-callid=0&size=c360_u270&quality=100&vuk=-&ft=video?style=for-the-badge&logo=biolink&logoColor=white)](https://taggo.one/venicios)
 
 ![Marcos Venicios Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Venicios-Lima&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
